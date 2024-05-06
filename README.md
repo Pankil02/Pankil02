@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" >
-<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu+sans&size=25&pause=0000&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Pankil+!;Developer+and+Programmer..." alt="Hi There, I'm Pankil !! " />
+<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu+sans&size=25&pause=0000&random=false&center=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Pankil+!;Developer+and+Programmer..." alt="Hi There, I'm Pankil !! " />
 </h1>
 
 <div align="left">
@@ -59,12 +59,18 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pankil02&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+ <div>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=pankil02&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pankil02&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pankil02&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+ </div>
+ <div>
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pankil02&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ </div>
 </div>
+
+
  
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankil02&show_icons=true&locale=en&layout=compact" alt="pankil02" /></p>
